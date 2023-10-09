@@ -1,0 +1,410 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D3AEEA172AD483DB00F612F3 /* FractalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA162AD483DB00F612F3 /* FractalApp.swift */; };
+		D3AEEA1B2AD483DD00F612F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3AEEA1A2AD483DD00F612F3 /* Assets.xcassets */; };
+		D3AEEA1E2AD483DD00F612F3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3AEEA1D2AD483DD00F612F3 /* Preview Assets.xcassets */; };
+		D3AEEA332AD4842D00F612F3 /* Screen2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA242AD4842C00F612F3 /* Screen2.swift */; };
+		D3AEEA342AD4842D00F612F3 /* Sierpinski.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA252AD4842C00F612F3 /* Sierpinski.swift */; };
+		D3AEEA352AD4842D00F612F3 /* Screen4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA262AD4842C00F612F3 /* Screen4.swift */; };
+		D3AEEA362AD4842D00F612F3 /* Dragon.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA272AD4842C00F612F3 /* Dragon.swift */; };
+		D3AEEA372AD4842D00F612F3 /* KochAntiSnow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA282AD4842C00F612F3 /* KochAntiSnow.swift */; };
+		D3AEEA392AD4842D00F612F3 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA2A2AD4842C00F612F3 /* Triangle.swift */; };
+		D3AEEA3A2AD4842D00F612F3 /* KochSnow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA2B2AD4842C00F612F3 /* KochSnow.swift */; };
+		D3AEEA3B2AD4842D00F612F3 /* Screen3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA2C2AD4842D00F612F3 /* Screen3.swift */; };
+		D3AEEA3C2AD4842D00F612F3 /* ScreenRule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA2D2AD4842D00F612F3 /* ScreenRule.swift */; };
+		D3AEEA3D2AD4842D00F612F3 /* FractalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA2E2AD4842D00F612F3 /* FractalView.swift */; };
+		D3AEEA3E2AD4842D00F612F3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D3AEEA2F2AD4842D00F612F3 /* README.md */; };
+		D3AEEA3F2AD4842D00F612F3 /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA302AD4842D00F612F3 /* Tree.swift */; };
+		D3AEEA402AD4842D00F612F3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA312AD4842D00F612F3 /* ContentView.swift */; };
+		D3AEEA412AD4842D00F612F3 /* FormNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AEEA322AD4842D00F612F3 /* FormNumber.swift */; };
+		D3AEEA432AD486EA00F612F3 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = D3AEEA422AD486EA00F612F3 /* Localizable.xcstrings */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D3AEEA132AD483DB00F612F3 /* Fractal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fractal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3AEEA162AD483DB00F612F3 /* FractalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractalApp.swift; sourceTree = "<group>"; };
+		D3AEEA1A2AD483DD00F612F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D3AEEA1D2AD483DD00F612F3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D3AEEA242AD4842C00F612F3 /* Screen2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Screen2.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Screen2.swift"; sourceTree = "<group>"; };
+		D3AEEA252AD4842C00F612F3 /* Sierpinski.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Sierpinski.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Sierpinski.swift"; sourceTree = "<group>"; };
+		D3AEEA262AD4842C00F612F3 /* Screen4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Screen4.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Screen4.swift"; sourceTree = "<group>"; };
+		D3AEEA272AD4842C00F612F3 /* Dragon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Dragon.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Dragon.swift"; sourceTree = "<group>"; };
+		D3AEEA282AD4842C00F612F3 /* KochAntiSnow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KochAntiSnow.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/KochAntiSnow.swift"; sourceTree = "<group>"; };
+		D3AEEA2A2AD4842C00F612F3 /* Triangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Triangle.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Triangle.swift"; sourceTree = "<group>"; };
+		D3AEEA2B2AD4842C00F612F3 /* KochSnow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KochSnow.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/KochSnow.swift"; sourceTree = "<group>"; };
+		D3AEEA2C2AD4842D00F612F3 /* Screen3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Screen3.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Screen3.swift"; sourceTree = "<group>"; };
+		D3AEEA2D2AD4842D00F612F3 /* ScreenRule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScreenRule.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/ScreenRule.swift"; sourceTree = "<group>"; };
+		D3AEEA2E2AD4842D00F612F3 /* FractalView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FractalView.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/FractalView.swift"; sourceTree = "<group>"; };
+		D3AEEA2F2AD4842D00F612F3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/README.md"; sourceTree = "<group>"; };
+		D3AEEA302AD4842D00F612F3 /* Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tree.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/Tree.swift"; sourceTree = "<group>"; };
+		D3AEEA312AD4842D00F612F3 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/ContentView.swift"; sourceTree = "<group>"; };
+		D3AEEA322AD4842D00F612F3 /* FormNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FormNumber.swift; path = "../../../Desktop/Swift-Backup/WWWDC23/Fractal.swiftpm/FormNumber.swift"; sourceTree = "<group>"; };
+		D3AEEA422AD486EA00F612F3 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D3AEEA102AD483DB00F612F3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D3AEEA0A2AD483DB00F612F3 = {
+			isa = PBXGroup;
+			children = (
+				D3AEEA422AD486EA00F612F3 /* Localizable.xcstrings */,
+				D3AEEA152AD483DB00F612F3 /* Fractal */,
+				D3AEEA142AD483DB00F612F3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D3AEEA142AD483DB00F612F3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D3AEEA132AD483DB00F612F3 /* Fractal.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D3AEEA152AD483DB00F612F3 /* Fractal */ = {
+			isa = PBXGroup;
+			children = (
+				D3AEEA162AD483DB00F612F3 /* FractalApp.swift */,
+				D3AEEA312AD4842D00F612F3 /* ContentView.swift */,
+				D3AEEA272AD4842C00F612F3 /* Dragon.swift */,
+				D3AEEA322AD4842D00F612F3 /* FormNumber.swift */,
+				D3AEEA2E2AD4842D00F612F3 /* FractalView.swift */,
+				D3AEEA282AD4842C00F612F3 /* KochAntiSnow.swift */,
+				D3AEEA2B2AD4842C00F612F3 /* KochSnow.swift */,
+				D3AEEA2F2AD4842D00F612F3 /* README.md */,
+				D3AEEA242AD4842C00F612F3 /* Screen2.swift */,
+				D3AEEA2C2AD4842D00F612F3 /* Screen3.swift */,
+				D3AEEA262AD4842C00F612F3 /* Screen4.swift */,
+				D3AEEA2D2AD4842D00F612F3 /* ScreenRule.swift */,
+				D3AEEA252AD4842C00F612F3 /* Sierpinski.swift */,
+				D3AEEA302AD4842D00F612F3 /* Tree.swift */,
+				D3AEEA2A2AD4842C00F612F3 /* Triangle.swift */,
+				D3AEEA1A2AD483DD00F612F3 /* Assets.xcassets */,
+				D3AEEA1C2AD483DD00F612F3 /* Preview Content */,
+			);
+			path = Fractal;
+			sourceTree = "<group>";
+		};
+		D3AEEA1C2AD483DD00F612F3 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D3AEEA1D2AD483DD00F612F3 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D3AEEA122AD483DB00F612F3 /* Fractal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D3AEEA212AD483DD00F612F3 /* Build configuration list for PBXNativeTarget "Fractal" */;
+			buildPhases = (
+				D3AEEA0F2AD483DB00F612F3 /* Sources */,
+				D3AEEA102AD483DB00F612F3 /* Frameworks */,
+				D3AEEA112AD483DB00F612F3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Fractal;
+			productName = Fractal;
+			productReference = D3AEEA132AD483DB00F612F3 /* Fractal.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D3AEEA0B2AD483DB00F612F3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					D3AEEA122AD483DB00F612F3 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = D3AEEA0E2AD483DB00F612F3 /* Build configuration list for PBXProject "Fractal" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"pt-BR",
+			);
+			mainGroup = D3AEEA0A2AD483DB00F612F3;
+			productRefGroup = D3AEEA142AD483DB00F612F3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D3AEEA122AD483DB00F612F3 /* Fractal */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D3AEEA112AD483DB00F612F3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3AEEA3E2AD4842D00F612F3 /* README.md in Resources */,
+				D3AEEA1E2AD483DD00F612F3 /* Preview Assets.xcassets in Resources */,
+				D3AEEA432AD486EA00F612F3 /* Localizable.xcstrings in Resources */,
+				D3AEEA1B2AD483DD00F612F3 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D3AEEA0F2AD483DB00F612F3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3AEEA3D2AD4842D00F612F3 /* FractalView.swift in Sources */,
+				D3AEEA3C2AD4842D00F612F3 /* ScreenRule.swift in Sources */,
+				D3AEEA402AD4842D00F612F3 /* ContentView.swift in Sources */,
+				D3AEEA3B2AD4842D00F612F3 /* Screen3.swift in Sources */,
+				D3AEEA352AD4842D00F612F3 /* Screen4.swift in Sources */,
+				D3AEEA372AD4842D00F612F3 /* KochAntiSnow.swift in Sources */,
+				D3AEEA332AD4842D00F612F3 /* Screen2.swift in Sources */,
+				D3AEEA342AD4842D00F612F3 /* Sierpinski.swift in Sources */,
+				D3AEEA412AD4842D00F612F3 /* FormNumber.swift in Sources */,
+				D3AEEA362AD4842D00F612F3 /* Dragon.swift in Sources */,
+				D3AEEA172AD483DB00F612F3 /* FractalApp.swift in Sources */,
+				D3AEEA392AD4842D00F612F3 /* Triangle.swift in Sources */,
+				D3AEEA3F2AD4842D00F612F3 /* Tree.swift in Sources */,
+				D3AEEA3A2AD4842D00F612F3 /* KochSnow.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D3AEEA1F2AD483DD00F612F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D3AEEA202AD483DD00F612F3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D3AEEA222AD483DD00F612F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Fractal/Preview Content\"";
+				DEVELOPMENT_TEAM = KK45GWU9MA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Fractal;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.educational-games";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.2;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Leite.Gabriel.Fractal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D3AEEA232AD483DD00F612F3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Fractal/Preview Content\"";
+				DEVELOPMENT_TEAM = KK45GWU9MA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Fractal;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.educational-games";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.2;
+				PRODUCT_BUNDLE_IDENTIFIER = me.Leite.Gabriel.Fractal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D3AEEA0E2AD483DB00F612F3 /* Build configuration list for PBXProject "Fractal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D3AEEA1F2AD483DD00F612F3 /* Debug */,
+				D3AEEA202AD483DD00F612F3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D3AEEA212AD483DD00F612F3 /* Build configuration list for PBXNativeTarget "Fractal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D3AEEA222AD483DD00F612F3 /* Debug */,
+				D3AEEA232AD483DD00F612F3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D3AEEA0B2AD483DB00F612F3 /* Project object */;
+}

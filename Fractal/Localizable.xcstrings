@@ -1,0 +1,264 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "°" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "°"
+          }
+        }
+      }
+    },
+    "butao1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore more"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorar mais"
+          }
+        }
+      }
+    },
+    "butao2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's find out how it works"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vamos descobrir como funcionam"
+          }
+        }
+      }
+    },
+    "butao3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's create our own fractal"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vamos criar o nosso próprio fractal"
+          }
+        }
+      }
+    },
+    "parameter1" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Number of iterations:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de iterações:"
+          }
+        }
+      }
+    },
+    "parameter2" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Branch reduction:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redução dos galhos:"
+          }
+        }
+      }
+    },
+    "parameter3" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Branch's angle:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ângulo dos galhos:"
+          }
+        }
+      }
+    },
+    "tela1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fractals can be found in lots of things in nature, like snowflakes, trees and even lightning bolt moves."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fractais podem ser encontrados em muitas coisas na natureza, como flocos de neve, árvores e até movimentos de raios."
+          }
+        }
+      }
+    },
+    "tela2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fractal is a shape that repeats itself repeatedly creating geometric patterns with all kind of shapes, like the tree above and the snowflake before."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fractal é uma forma que se repete repetidamente, criando padrões geométricos com todo o tipo de formas, como a árvore acima e o floco de neve antes."
+          }
+        }
+      }
+    },
+    "tela3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This fractal is a part of the Koch snowflake. As you can see, there is a rule that the fractal follows. These rules are like a recipe to create an image that appears to be made of smaller copies of itself. In this case, every line must turn into one line, an upper triangle and another line."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este fractal é uma parte do floco de neve de Koch. Como pode-se ver, há uma regra que o fractal segue. Estas regras são como uma receita para criar uma imagem que parece ser feita de cópias mais pequenas de si mesma. Neste caso, cada linha deve transformar-se em uma linha, um triângulo superior e outra linha."
+          }
+        }
+      }
+    },
+    "title1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing with Fractals"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brincando com Fractais"
+          }
+        }
+      }
+    },
+    "title2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "But what are Fractals?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mas o que são Fractais?"
+          }
+        }
+      }
+    },
+    "title3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How Fractals work?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como funcionam os Fractais?"
+          }
+        }
+      }
+    },
+    "title4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select your Fractal"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha o seu Fractal"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
